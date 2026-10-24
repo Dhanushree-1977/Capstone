@@ -1,0 +1,5 @@
+FACTOR_ID,TRANSPORT_MODE,EMISSION_FACTOR,UNIT,SOURCE
+FAC001,Road,0.1,kg CO2e/tonne-km,Synthetic demonstration value
+FAC002,Rail,0.025,kg CO2e/tonne-km,Synthetic demonstration value
+FAC003,Sea,0.015,kg CO2e/tonne-km,Synthetic demonstration value
+FAC004,Air,0.6,kg CO2e/tonne-km,Synthetic demonstration value

@@ -1,0 +1,9 @@
+SUPPLIER_ID,SUPPLIER_NAME,COUNTRY,REGION,SUSTAINABILITY_RATING
+SUP001,Green Valley Supplies,India,Asia,A
+SUP002,Pacific Trade Co,China,Asia,B
+SUP003,Euro Goods Ltd,Germany,Europe,A
+SUP004,Global Parts Inc,USA,North America,C
+SUP005,Southern Logistics,Australia,Oceania,B
+SUP006,Nile Industrial Supply,Egypt,Africa,B
+SUP007,Sakura Components,Japan,Asia,A
+SUP008,Andes Materials,Brazil,South America,C
